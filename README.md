@@ -1,6 +1,5 @@
 # Hi, I'm Charles:)
 ![Greetings](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=1200&color=2196F3&width=500&height=45&lines=Good+morning!;Good+afternoon!;Good+evening!&repeat=true)
-
 I'm a Sophomore Electrical & Computer Engineering student at the
 University of Toronto, (for now) interested in software engineering
 and AI personalization & AI interpretability.
