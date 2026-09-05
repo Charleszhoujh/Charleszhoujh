@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, Good Morning, Evening and Afternoon as well...  I'm Charles:)
 
-<!--
-**Charleszhoujh/Charleszhoujh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Sophomore Electrical & Computer Engineering student at the
+University of Toronto, (for now) interested in software engineering
+and AI personalization.
 
-Here are some ideas to get you started:
+I enjoy building tools for everyday problems and exploring
+how language models can reflect individual preferences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### Reversi Game-Playing Bot
+A Reversi engine written in **C**, ranked **4th on the APS105 course leaderboard** and awarded a Certificate of Outstanding Performance.
+
+- Implemented minimax search with alpha-beta pruning and
+  heuristic move ordering.
+- Added iterative deepening, CPU-time checks, and phase-based
+  evaluation for mobility, corners, edges, and discs.
+
+### RecordYourUni
+A university application planning website used by **30+ international students studying in Canada**.
+
+- Led product requirements and AI-assisted development from concept to launch.
+- Deployed using **Netlify and Cloudflare**, with **Supabase** as part of the technology stack.
+
+## Currently working on
+
+- **Rhyvia** — A personal study-planning project, with an
+  Oura API integration in development.
+  [Project website source](https://github.com/Charleszhoujh/rhyvia-website)
+
+- **Personal values & language models** — Experiments with
+  prompting and lightweight adaptation to explore how
+  models represent individual preferences.
+
+## Technical skills
+
+Python · C/C++ · MATLAB
+
+### Currently learning
+
+HTML · CSS · JavaScript · TypeScript
+
+## Get in touch
+
+I'm seeking Summer 2027 software engineering internships
+and am open to collaborating on software and AI projects.
+
+[Email me](mailto:charlesjh.zhou@mail.utoronto.ca) · [LinkedIn](https://www.linkedin.com/in/charles-zhou-03b787354/)
