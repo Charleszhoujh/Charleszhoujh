@@ -9,7 +9,7 @@ how language models can reflect individual preferences.
 
 ## Selected projects
 
-### Reversi Game-Playing Bot
+### Reversi Game-Playing Bot[View code & certificate](https://github.com/Charleszhoujh/Reversi-AI)
 A Reversi engine written in **C**, ranked **4th on the APS105 course leaderboard** and awarded a Certificate of Outstanding Performance.
 
 - Implemented minimax search with alpha-beta pruning and
@@ -17,7 +17,7 @@ A Reversi engine written in **C**, ranked **4th on the APS105 course leaderboard
 - Added iterative deepening, CPU-time checks, and phase-based
   evaluation for mobility, corners, edges, and discs.
 
-### RecordYourUni
+### RecordYourUni[Visit website](https://recordyouruni.com)
 A university application planning website used by **30+ international students studying in Canada**.
 
 - Led product requirements and AI-assisted development from concept to launch.
