@@ -53,4 +53,4 @@ A university application planning website used by **30+ international students s
 I'm seeking Summer 2027 software engineering internships
 and am open to collaborating on software and AI projects.
 
-[Email me](mailto:charlesjh.zhou@mail.utoronto.ca) · [LinkedIn](https://www.linkedin.com/in/charles-zhou-03b787354/)
+[🌐 Portfolio](https://charleszhou.dev) · [LinkedIn](https://www.linkedin.com/in/charles-zhou-03b787354/) · [Email](mailto:charlesjh.zhou@mail.utoronto.ca)
